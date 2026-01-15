@@ -16,3 +16,5 @@ __structure of project__ :
     |__live_detection.py
     |__requirement.txt
     |__train_model.py
+
+__python version: 3.11.9
