@@ -1,0 +1,18 @@
+# Dépendances pour le projet de reconnaissance du langage des signes ASL
+
+# Deep Learning
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Vision par ordinateur
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Calcul scientifique
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Utilitaires
+pillow>=10.0.0
